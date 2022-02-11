@@ -2,7 +2,7 @@
 
 echo "Download Aliases File"
 
-curl https://raw.githubusercontent.com/rosswickman/development_environment/master/scripts/aliases.sh -o "~/.bash_profile"
-curl https://raw.githubusercontent.com/rosswickman/development_environment/master/scripts/aliases.sh -o "~/.bashrc"
-curl https://raw.githubusercontent.com/rosswickman/development_environment/master/scripts/aliases.sh -o "~/.zprofile"
-curl https://raw.githubusercontent.com/rosswickman/development_environment/master/scripts/aliases.sh -o "~/.zshrc"
+curl https://raw.githubusercontent.com/rosswickman/development_environment/master/files/aliases -O "~/.bash_profile"
+curl https://raw.githubusercontent.com/rosswickman/development_environment/master/files/aliases -O "~/.bashrc"
+curl https://raw.githubusercontent.com/rosswickman/development_environment/master/files/aliases -O "~/.zprofile"
+curl https://raw.githubusercontent.com/rosswickman/development_environment/master/files/aliases -O "~/.zshrc"
