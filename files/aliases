@@ -25,7 +25,7 @@ alias nag="cfn_nag_scan --input-path ."
 ## PERSONAL
 alias code="cd ~/Documents/Code"
 alias rw="cd ~/Documents/Code/rwickit"
-alias aws="cd ~/Documents/Code/rwickit-aws"
+alias rwa="cd ~/Documents/Code/rwickit-aws"
 
 # WORK
 alias edg="cd ~/Documents/Code/edgio"
