@@ -4,7 +4,9 @@
 # PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
 # export PATH="$PATH:some/path/to/app"
 # =====================
-export PATH="$PATH:Users/ross/Library/Python/3.9/bin/mkdocs"
+export PATH="$PATH:$HOME/Library/Python/3.9/bin/mkdocs"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$($HOME/Library/Python/3.9/bin shellenv)"
 
 # =====================
 # Aliases
