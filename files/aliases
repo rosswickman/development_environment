@@ -23,15 +23,15 @@ alias chkov="checkov -d ."
 alias nag="cfn_nag_scan --input-path ."
 
 ## PERSONAL
-alias code="cd ~/Documents/Code"
-alias rw="cd ~/Documents/Code/rwickit"
-alias rwa="cd ~/Documents/Code/rwickit-aws"
+alias code="cd ~/Code"
+alias rw="cd ~/Code/rwickit"
+alias rwa="cd ~/Code/rwickit-aws"
 
 # WORK
-alias edg="cd ~/Documents/Code/edgio"
-alias doc="cd ~/Documents/Code/edgio/documentations"
-alias ci="cd ~/Documents/Code/edgio/cicd"
-alias pl="cd ~/Documents/Code/edgio/platform"
+alias edg="cd ~/Code/edgio"
+alias doc="cd ~/Code/edgio/documentations"
+alias ci="cd ~/Code/edgio/cicd"
+alias pl="cd ~/Code/edgio/platform"
 
 # LS
 alias l='ls -lah'
